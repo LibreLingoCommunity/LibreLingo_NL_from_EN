@@ -4,7 +4,7 @@ Dutch course for English speakers
 
 ## Usages of this template
 
-- [ ] Title  
+- [x] Title  
     Please replace [Target Language] in the title of the README with the language that you would like to teach, (ex. Spanish), and the base language with the language that you start to teach (ex. English), respecting the extended and contracted versions.  
 
     Full example of the title: LibreLingo-ES-from-EN  
