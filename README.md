@@ -1,6 +1,6 @@
-# LibreLingo-[Target Language]-from-[Base Language]
+# LibreLingo-NL-from-EN
 
-[Target Language extended uppercase] course for [Base Language extended uppercase] speakers
+Dutch course for English speakers
 
 ## Usages of this template
 
